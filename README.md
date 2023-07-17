@@ -15,7 +15,7 @@ also known as:
 
 ## currently
 
-- ambassador at [Taiko](https://taiko.xyz/)
+- research and education at [Taiko](https://taiko.xyz/)
 
 ## stuff I do
 
@@ -67,4 +67,4 @@ also known as:
 - [Anatomy of a Crypto Community with odesium — Taiko Tuesday Special #3](https://umede.substack.com/p/anatomy-of-a-crypto-community-with) (2023-05-19)
 - [ZK Magic (and Hello Kitty) with Brecht Devos — Taiko Tuesday Special #4](https://umede.substack.com/p/zk-magic-and-hello-kitty-with-brecht) (2023-06-01)
 
-updated: 2023-06-19
+updated: 2023-07-17
