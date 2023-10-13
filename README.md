@@ -17,22 +17,13 @@ also known as:
 
 - research and education at [Taiko](https://taiko.xyz/)
 
-## stuff I do
+## stuff I do and am interested in
 
 - writing
 - research
-- education
-
-## stuff I'm interested in
-
-### Ethereum
-
-- rollup architecture
-- ZK-EVMs
-- proving and proposing
-- proving pools
-- rollup tokenomics
-- sharding
+- Ethereum education
+- rollups
+- L2 governance
 
 ### miscellaneous
 
@@ -58,13 +49,18 @@ also known as:
 ### Taiko Tuesday newsletter (selected editions)
 
 - [The Infinite Garden of Dapps — Taiko Tuesday #7](https://umede.substack.com/p/the-infinite-garden-of-dapps-taiko) (2023-03-24)
-- [It's Over 90!!! — Taiko Tuesday #10](https://umede.substack.com/p/its-over-90-taiko-tuesday-10) (2023-04-04)
-- [Ethereum-Level Transparency — Taiko Tuesday #14](https://umede.substack.com/p/ethereum-level-transparency-taiko) (2023-05-03)
-- [Vitalik Puts Taiko on the Map — Taiko Tuesday #17](https://umede.substack.com/p/vitalik-puts-taiko-on-the-map-taiko) (2023-05-23)
 - [ETHPrague Wrap-Up and $22M Raised — Taiko Tuesday #20](https://umede.substack.com/p/ethprague-wrap-up-and-22m-raised) (2023-06-15)
 - [Ethereum Rollup Evolution with Matt Finestone — Taiko Tuesday Special #1](https://umede.substack.com/p/ethereum-rollup-evolution-with-matt) (2023-04-13)
 - [Kids and Crypto with Daniel Wang — Taiko Tuesday Special #2](https://umede.substack.com/p/kids-and-crypto-with-daniel-wang) (2023-05-01)
 - [Anatomy of a Crypto Community with odesium — Taiko Tuesday Special #3](https://umede.substack.com/p/anatomy-of-a-crypto-community-with) (2023-05-19)
 - [ZK Magic (and Hello Kitty) with Brecht Devos — Taiko Tuesday Special #4](https://umede.substack.com/p/zk-magic-and-hello-kitty-with-brecht) (2023-06-01)
 
-updated: 2023-07-17
+### Discussions
+
+- [Decentralized and permissionless proving design](https://youtu.be/Tc3nYpi4bsQ?feature=shared) (2023-08-11)
+- [Based rollups and decentralized sequencing](https://twitter.com/taikoxyz/status/1704479978656587865) (2023-09-20)
+- [Prover pools: Opening ZKPs to a wider audience](https://twitter.com/i/spaces/1vOGwjbDBeMKB) (2023-10-04)
+- [ZK-VMs: Current landscape, performance, and open-source ethos](https://twitter.com/i/spaces/1yoKMwvmYVWJQ) (2023-10-10)
+- [Based sequencing ft. Justin Drake: Part 2](https://twitter.com/i/spaces/1ypJdkREzynGW) (2023-10-12)
+
+updated: 2023-10-13
