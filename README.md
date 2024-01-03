@@ -11,7 +11,8 @@ also known as:
 - [twitter](https://twitter.com/umededoteth)
 - [blog](https://mirror.xyz/umede.eth)
 - [github](https://github.com/umededoteth/)
-- discord: `umede.eth#9268`
+- [farcaster](https://warpcast.com/umede.eth)
+- discord: `umede`
 
 ## currently
 
@@ -62,5 +63,6 @@ also known as:
 - [Prover pools: Opening ZKPs to a wider audience](https://twitter.com/i/spaces/1vOGwjbDBeMKB) (2023-10-04)
 - [ZK-VMs: Current landscape, performance, and open-source ethos](https://twitter.com/i/spaces/1yoKMwvmYVWJQ) (2023-10-10)
 - [Based sequencing ft. Justin Drake: Part 2](https://twitter.com/i/spaces/1ypJdkREzynGW) (2023-10-12)
+- [Multi-proofs for rollups: A nice-to-have or a necessity?](https://twitter.com/i/spaces/1gqxvQzVWQjJB?s=20) (2023-12-13)
 
-updated: 2023-10-13
+updated: 2024-01-03
