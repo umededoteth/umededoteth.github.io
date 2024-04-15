@@ -14,19 +14,27 @@ also known as:
 - [farcaster](https://warpcast.com/umede.eth)
 - discord: `umede`
 
+## about
+
+i got interested in crypto in 2013. well, by "got interested" i mean i saw some news piece that discussed bitcoin and how evil and scammy it is. i quickly forgot about it before coming back to crypto in 2019 at the depths of the bear. i lurked for some time until i realized that i have much more to offer to the industry besides that. however, i did not buy any eth. i still cry about it to this day.
+
+before accepting my first full-time crypto role, i did copywriting and later ux writing at a cybersecurity company. at university, i wrote poetry, children's stories, and love letters. nowadays, i enjoy making friends online and building communities.
+
 ## currently
 
-- comms, community, education, etc. at [Taiko](https://taiko.xyz/)
+- comms and community at [Taiko](https://taiko.xyz/)
 
 ## stuff I do and am interested in
 
 - writing
 - research
+- community building
 - Ethereum education
 - rollups
-- L2 governance
+- governance
+- grants
 
-### miscellaneous
+### other stuff I do and am interested in
 
 - gardening
 - hiking
@@ -58,4 +66,4 @@ also known as:
 - [Based sequencing ft. Justin Drake: Part 2](https://twitter.com/i/spaces/1ypJdkREzynGW) (2023-10-12)
 - [Multi-proofs for rollups: A nice-to-have or a necessity? Ft. Vitalik](https://twitter.com/i/spaces/1gqxvQzVWQjJB?s=20) (2023-12-13)
 
-updated: 2024-02-05
+updated: 2024-04-15
